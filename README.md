@@ -9,3 +9,11 @@ This template should help get you started developing with Tauri, React and Types
 ## Reference
 
 - https://github.com/yeehanchung/lexical-rich-text-editor-nextjs-13
+
+## Tutorial
+
+```code
+-- ensure cargo and npm installed
+npm install
+npm run tauri dev
+```
